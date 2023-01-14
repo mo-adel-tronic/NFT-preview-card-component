@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-ujPyz6zSiE)
-- Live Site URL: [live site URL here](https://mo-adel-tronic.github.io/product-preview-card-component/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-QTm8xl0M_p)
+- Live Site URL: [live site URL here](https://mo-adel-tronic.github.io/NFT-preview-card-component/)
 
 ## My process
 
